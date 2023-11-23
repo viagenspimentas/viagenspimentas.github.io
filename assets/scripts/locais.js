@@ -16,7 +16,7 @@ const estados = [
             {
                 nome: "Museu Pelé",
                 municipio: "Santos",
-                imagem: "aleatorio/museuPelé.jpg",
+                imagem: "aleatorio/museupelé.jpg",
                 descricao: "Museu Pelé é um museu na cidade de Santos, dedicado à carreira do ex-jogador Pelé. Foi inaugurado em 15 de junho de 2014, como parte dos eventos paralelos à Copa do Mundo FIFA de 2014. Sua construção chegou a ser contestada por conta dos altíssimos valores envolvidos nas obras."
             },
             {
@@ -171,19 +171,19 @@ const estados = [
             {
                 nome: "Araxa",
                 municipio: "a",
-                imagem: "minas_gerais/Araxa.jpg",
+                imagem: "minas_gerais/araxa.jpg",
                 descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate earum dolore officia nobis consequatur? Corrupti excepturi corporis repudiandae doloremque. Quod sint dolores doloribus veritatis aut veniam animi accusamus neque ullam"
             },
             {
                 nome: "Belo Horizonte",
                 municipio: "",
-                imagem: "minas_gerais/Belo-Horizonte.jpg",
+                imagem: "minas_gerais/belo-horizonte.jpg",
                 descricao: "Belo Horizonte é a capital do estado de Minas Gerais, no sudeste do Brasil. Rodeada de montanhas, a cidade é conhecida pelo enorme Estádio Mineirão. Construído em 1965, o estádio alberga também o Museu Brasileiro do Futebol. Nas proximidades encontra-se a Lagoa da Pampulha e o Conjunto Arquitetónico da Pampulha, que inclui a Igreja de São Francisco de Assis, cujo teto é ondulado e que foi concebida pelo arquiteto modernista brasileiro Oscar Niemeyer."        
             },
             {
                 nome: "Diamantina",
                 municipio: "a",
-                imagem: "minas_gerais/Diamantina.jpg",
+                imagem: "minas_gerais/diamantina.jpg",
                 descricao: "A ser feito"
             }
         ]

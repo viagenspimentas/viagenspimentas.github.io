@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    color: #000;
+    transition:  background-color 0.5s, color 0.5s;
+}
+/*  
+    -Coloca um limite na imagem do carrossel
+    -Ajustar caso o padrão da resolução mude
+*/
+.carousel-item img{
+    max-height: 900px;
+}
+/*
+    -Impede que o texto dos card fique destacado como um link.
+*/
+.links{
+    text-decoration: none;
+}
+
+/*
+    RESPONSIVIDADE
+*/
+@media (max-width:1200px){
+    .carousel-item img{
+        max-width: 1200px;
+    }
+    #locais div{
+        justify-content: center!important;
+    }
+    #lugar{
+        width: 100%!important;
+    }
+}
+ /*Eae man to dando umas mexidinhas ta ficando bala*/
+.night-mode{
+    background-color: #212121;
+    color: #fff;
+}
+
